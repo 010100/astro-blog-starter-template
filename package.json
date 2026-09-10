@@ -20,8 +20,6 @@
 		"typescript": "5.9.3"
 		"@react-three/drei": "^9.105.0",
         "@react-three/fiber": "^8.16.2",
-        "gsap": "^3.12.5",
-        "three": "^0.165.0"
 	},
 	"devDependencies": {
 		"wrangler": "4.127.0"
